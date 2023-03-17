@@ -1,0 +1,6 @@
+https://www.youtube.com/watch?v=G2xOmEHTM2A
+https://crumplab.com/rstatsmethods/articles/Stats1/Getting_Started.html
+
+git config --global user.email "mfromeroo@libertadores.edu.co"
+git config --global user.name "Manuel189fox"
+git config remote.origin.url git@github.com:Manuel189fox/PruebaTres.git
